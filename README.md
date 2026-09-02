@@ -8,7 +8,7 @@
 [![Notebook](https://img.shields.io/badge/Jupyter-notebook-F37626?logo=jupyter&logoColor=white)](notebooks/polissya_wildfire_risk.ipynb)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Erasmus+](https://img.shields.io/badge/Erasmus%2B-EcoMinds-blue)](#about-the-project)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/polissya-wildfire-risk/blob/main/notebooks/polissya_wildfire_risk.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/blaz3xx/polissya-wildfire-risk/blob/main/notebooks/polissya_wildfire_risk.ipynb)
 
 *[Українська версія](README.uk.md)*
 
