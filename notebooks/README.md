@@ -7,7 +7,7 @@
 The file is about 11 MB because it keeps all rendered outputs, including 14 figures and an embedded Folium map. That is under GitHub's limits, but the in-browser notebook viewer can be slow or refuse to render files this size. Two reliable ways to read it:
 
 - **Google Colab** — the badge at the top of the main README opens it directly.
-- **nbviewer** — `https://nbviewer.org/github/USERNAME/polissya-wildfire-risk/blob/main/notebooks/polissya_wildfire_risk.ipynb`
+- **nbviewer** — `https://nbviewer.org/github/blaz3xx/polissya-wildfire-risk/blob/main/notebooks/polissya_wildfire_risk.ipynb`
 
 If you would rather keep the repository light, strip the outputs before committing:
 
