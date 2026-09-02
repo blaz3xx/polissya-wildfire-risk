@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: >-
+  Polissya Wildfire Risk: a dynamic wildfire risk forecasting
+  system for the Ukrainian Polissya forest belt
+message: If you use this work, please cite it as below.
+type: software
+authors:
+  - family-names: Sitailo
+    given-names: Anhelina
+    affiliation: Igor Sikorsky Kyiv Polytechnic Institute
+  - family-names: Cherednichenko
+    given-names: Artem
+    affiliation: Igor Sikorsky Kyiv Polytechnic Institute
+abstract: >-
+  A day-ahead wildfire risk forecasting system for the Ukrainian
+  Polissya forest belt. Ten years of ERA5 reanalysis weather
+  (2016-2025) are joined with NASA FIRMS satellite fire detections
+  clipped to an OpenStreetMap forest mask. A bidirectional LSTM
+  over a 14-day input window reaches ROC-AUC 0.877 and recall 0.922
+  on a chronological hold-out set, outperforming logistic
+  regression, random forest, and CatBoost baselines. Predictions
+  drive a three-tier early warning system with a live inference
+  module. Produced under Erasmus+ EcoMinds.
+keywords:
+  - wildfire
+  - fire weather index
+  - remote sensing
+  - NASA FIRMS
+  - LSTM
+  - time series
+  - environmental monitoring
+  - Erasmus+
+license: MIT
+version: 1.0.0
+date-released: '2026-05-19'

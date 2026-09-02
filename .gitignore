@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project data and artefacts
+forest_fire_project/
+*.parquet
+*.gpkg
+*.npz
+*.keras
+*.h5
+data/
+cache/
+*_cache/
+
+# Secrets
+.env
+*.key
+firms_key*
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
